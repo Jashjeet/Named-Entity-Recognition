@@ -13,7 +13,7 @@ from spacy.lang.en import English   # or whichever language tokenizer you need
 
 import pandas as pd
 
-annotated_file="C:/Users/jashj/Desktop/Nowigence/Edited jsonl files/Test Train split all files/all_files_train.jsonl"
+annotated_file="C:/Users/jashj/Desktop/xxxxxxxxxxxx/all_files_train.jsonl"
 max_count=1000000
 
 train_data = []
